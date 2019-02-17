@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="57px" height="56px" viewBox="0 0 57 56" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.2 (51160) - http://www.bohemiancoding.com/sketch -->
+    <title>Logo</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-96.2%" y="-92.0%" width="292.3%" height="300.0%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="8" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.264917346 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <linearGradient x1="-1.33095005%" y1="56.4633823%" x2="114.174433%" y2="56.4633846%" id="linearGradient-2">
+            <stop stop-color="#FFFFFF" stop-opacity="0.911967844" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Mobile" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Colis-en-stock" transform="translate(0.000000, -6.000000)">
+            <g id="Logo" transform="translate(15.000000, 18.000000)">
+                <g id="Group" filter="url(#filter-1)" transform="translate(0.000000, 1.000000)">
+                    <rect id="Rectangle-4" fill="#EBB617" x="0" y="0" width="5.45884833" height="5.25035106"></rect>
+                    <rect id="Rectangle-4-Copy" fill="#F7DB8A" x="0" y="6.56293882" width="5.45884833" height="5.25035106"></rect>
+                    <rect id="Rectangle-4-Copy-2" fill="#F8EFC4" x="0" y="13.1258776" width="5.45884833" height="5.25035106"></rect>
+                    <rect id="Rectangle-4-Copy-3" fill="#FFF8E5" x="0" y="19.6888165" width="5.45884833" height="5.25035106"></rect>
+                    <rect id="Rectangle-4-Copy-4" fill="#FFFEF2" x="6.82356041" y="19.6888165" width="5.45884833" height="5.25035106"></rect>
+                    <rect id="Rectangle-4-Copy-5" fill="#FAF6E9" x="13.6471208" y="19.6888165" width="5.45884833" height="5.25035106"></rect>
+                    <rect id="Rectangle-4-Copy-9" fill="#FFFFFF" x="20.4706812" y="19.6888165" width="5.45884833" height="5.25035106"></rect>
+                </g>
+                <text id="R" fill="url(#linearGradient-2)" font-family="Roboto-Black, Roboto" font-size="23" font-weight="700">
+                    <tspan x="7" y="21">R</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>
